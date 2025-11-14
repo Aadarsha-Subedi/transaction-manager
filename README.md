@@ -19,7 +19,7 @@ A mini-project full-stack web application built with React, TypeScript, and Expr
 
 ## 🎯 Overview
 
-Tables Pagination is a comprehensive data management system that allows users to browse, manage, and interact with large datasets efficiently. The application features two main modules: **Customers** and **Transactions**, each with full CRUD (Create, Read, Update, Delete) capabilities, advanced pagination, sorting, filtering, and bulk operations.
+This mini-project is a comprehensive data management system that allows users to browse, manage, and interact with large datasets efficiently. The application features two main modules: **Customers** and **Transactions**, each with full CRUD (Create, Read, Update, Delete) capabilities, advanced pagination, sorting, filtering, and bulk operations.
 
 The backend provides RESTful API endpoints with simulated network delays, while the frontend delivers a responsive and intuitive user interface built with React and TypeScript.
 
