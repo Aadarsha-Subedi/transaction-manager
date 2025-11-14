@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+	tr {
+		@apply text-left text-white;
+	}
+	th,
+	td {
+		@apply px-3 py-4;
+	}
+}
+@layer components {
+	.btn {
+		@apply cursor-pointer rounded-[100px] px-4 py-2 disabled:scale-75 disabled:cursor-not-allowed;
+	}
+	.btn-primary {
+		@apply bg-black text-white;
+	}
+	.btn-secondary {
+		@apply border-2;
+	}
+	.search-wrapper {
+		@apply relative flex w-sm items-center;
+	}
+
+	.search-input {
+		@apply flex-1 rounded-[100px] border border-gray-500 px-12 py-2;
+	}
+
+	.search-icon {
+		@apply absolute ml-4;
+	}
+}
