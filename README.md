@@ -1,4 +1,4 @@
-# Tables Pagination - Full-Stack Data Management Application
+# A Transaction Manager Full-Stack Data Management Application (mini-project)
 
 A mini-project full-stack web application built with React, TypeScript, and Express.js that demonstrates advanced data management with pagination, sorting, filtering, and CRUD operations. This project showcases best practices in state management, API integration, and responsive UI design.
 
@@ -507,4 +507,4 @@ Potential features for future releases:
 
 **Last Updated:** November 2025
 
-Thank you for using Tables Pagination! Happy coding! 🎉
+Thank you for visiting! Happy coding! 🎉
